@@ -93,7 +93,7 @@
 	    "type": "profession",
         "ident": "idiot_armed_bandit",
         "name": "Bionic Bandit Prince",
-        "description": "You are an infamous bandit prince, feared throughout the wastes. You have gone through hell aquiring high end and advanced CBM implants and installing them, just so you can make others go through worse...and get paid for it too!",
+        "description": "You are an infamous bandit prince, feared throughout the wastes. You have gone through hell acquiring high-end and advanced CBM implants and installing them, just so you can make others go through worse...and get paid for it too!",
 		"points": -6,
 			"CBMs":[
             "bio_meteorologist",
