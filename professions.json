@@ -1,0 +1,227 @@
+[
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_ruger_deluxe_vest",
+    "entries": [ { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_ruger_deluxe_rig",
+    "entries": [ { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_ruger_deluxe_rig_2",
+    "entries": [ { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_ruger_deluxe_bandolier",
+    "entries": [ { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_ruger_deluxe_magbandolier",
+    "entries": [ { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_ruger_deluxe_leg",
+    "entries": [ { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 }, { "item": "ruger30", "ammo-item": "556_incendiary", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_mp5_deluxe_rig",
+    "entries": [ { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_mp5_deluxe_magbandolier",
+    "entries": [ { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_mp5_deluxe_leg",
+    "entries": [ { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50} ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_mp5_deluxe_vest",
+    "entries": [ { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock22_leg",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock22_vest",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock22_rig",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_glock22_shoulder",
+    "entries": [ { "item": "glock_22", "ammo-item": "40sw", "charges": 22, "contents-item": [ "autofire", "light_grip", "tuned_mechanism", "match_trigger", "improve_sights", "suppressor_compact", "laser_sight" ] }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "bandit_quiver_large",
+    "entries": [ { "item": "bolt_steel_bodkin" }, {"item": "bolt_steel_bodkin"},{ "item": "bolt_steel_bodkin" }, {"item": "bolt_steel_bodkin"},{ "item": "bolt_steel_bodkin" }, {"item": "bolt_steel_bodkin"}]
+	},
+	{	
+	    "type": "profession",
+        "ident": "idiot_armed_bandit",
+        "name": "Bionic Bandit Prince",
+        "description": "You are an infamous bandit prince, feared throughout the wastes. You have gone through hell aquiring high end and advanced CBM implants and installing them, just so you can make others go through worse...and get paid for it too!",
+		"points": -6,
+			"CBMs":[
+            "bio_meteorologist",
+            "bio_metabolics",
+            "bio_remote",
+            "bio_uncanny_dodge",
+            "bio_scent_mask",
+            "bio_targeting",
+            "bio_tools",
+            "bio_cqb",
+            "bio_nanobots",
+			"bio_power_armor_interface_mkII",
+            "bio_blade",
+			"bio_eye_optic",
+            "bio_carbon",
+            "bio_adrenaline",
+            "bio_night_vision",
+            "bio_memory",
+            "bio_torsionratchet",
+            "bio_fingerhack",
+            "bio_lockpick",
+            "bio_face_mask",
+            "bio_advreactor",
+            "bio_flashlight",
+			"bio_recycler",
+            "bio_gills",
+            "bio_night",
+            "bio_probability_travel",
+            "bio_cloak",
+            "bio_alarm",
+            "bio_batteries",
+            "bio_power_storage_mkII"
+        ],
+       "skills": [
+      { "level": 20, "name": "survival" },
+      { "level": 20, "name": "fabrication" },
+      { "level": 20, "name": "cooking" },
+      { "level": 20, "name": "firstaid" },
+      { "level": 40, "name": "gun" },
+      { "level": 40, "name": "rifle" },
+      { "level": 20, "name": "melee" },
+      { "level": 20, "name": "lockpick" },
+      { "level": 20, "name": "computer" },
+      { "level": 20, "name": "mechanics" },
+      { "level": 20, "name": "electronics" },
+      { "level": 20, "name": "cutting" },
+      { "level": 20, "name": "firstaid" },
+      { "level": 20, "name": "archery" },
+      { "level": 20, "name": "driving" },
+      { "level": 20, "name": "tailor" },
+      { "level": 40, "name": "cutting" },
+      { "level": 40, "name": "bashing" }
+        ],
+		"pets": [ { "name": "mon_dog_gshepherd", "amount": 1 } ],
+        "items": {
+            "both": {
+                "items": [
+				"holy_symbol_wood",
+				"gloves_tactical",
+				"balclava",
+				"glasses_bal",
+				"legrig",
+				"legrig",
+				"rad_monitor",
+				"elbow_pads",
+				"knee_pads",
+				"vambrace_larmor",
+                "dump_pouch",
+				"survivor_belt_notools",
+				"tank_top",
+				"boots_combat",
+				"survivor_duffel_bag",
+				"survivor_duffel_bag",
+				"survivor_rucksack",
+                "socks_wool",
+				"trenchcoat_survivor",
+				"hood_lsurvivor",
+				"pants_cargo",
+				"crown_golden_survivor",
+				"PR24-retracted",
+				"picklocks",
+				"screwdriver_set",
+				"goggles_welding",
+				"toolbox",
+                "tent_kit",
+                "binoculars",
+                "knife_swissarmy",
+				"crackpipe",
+				"heavy_atomic_battery_cell",
+				"heavy_atomic_battery_cell",
+				"superalloy_harness_dog"
+                ],
+                "entries": [
+				    { "item": "sholster", "contents-group": "army_glock22_shoulder" },
+                    { "item": "40sw", "charges": 500 },
+				    { "item": "legpouch_large", "contents-group": "army_mags_glock22_leg" },
+					{ "item": "legpouch_large", "contents-group": "army_mags_ruger_deluxe_leg" },
+					{ "item": "modularvestceramic", "contents-group": "army_mags_ruger_deluxe_vest" },
+					{ "item": "survivor_vest", "contents-group": "army_mags_ruger_deluxe_rig_2" },
+                    { "item": "ruger_mini", "ammo-item": "556_incendiary", "charges": 30, "contents-item": [ "shoulder_strap", "brass_catcher", "barrel_big", "barrel_ported", "light_grip", "tuned_mechanism", "waterproof_gunmod", "match_trigger", "rail_laser_sight", "holo_sight", "adjustable_stock", "m203" ] },
+                    { "item": "556_incendiary", "charges": 650 },
+					{ "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
+                    { "item": "knife_combat", "container-item": "sheath" },
+                    { "item": "water_clean", "container-item": "canteen", "charges": 6 },
+	                { "item": "survivor_mess_kit", "charges": 800 },
+                    { "item": "crack", "charges": 300 },
+                    { "item": "crack", "charges": 300 },
+                    { "item": "crack", "charges": 300 },
+                    { "item": "arming_sword", "container-item": "scabbard" },
+					{ "item": "compcrossbow", "ammo-item": "bolt_steel_bodkin", "charges": 1, "contents-item": [ "shoulder_strap", "light_grip", "stabilizer",  "match_trigger", "bow_silencer", "holo_sight", "adjustable_stock", "sword_bayonet"  ] },
+				    { "item": "quiver_large", "contents-group": "bandit_quiver_large" },
+				    { "item": "quiver_large", "contents-group": "bandit_quiver_large" },
+				    { "item": "quiver_large", "contents-group": "bandit_quiver_large" },
+				    { "item": "quiver_large", "contents-group": "bandit_quiver_large" },
+					{ "item": "cash_card", "charges": 2000000000 },
+					{ "item": "ref_lighter","ammo-item": "gasoline", "charges": 50},
+					{ "item": "small_repairkit" },
+					{ "item": "welder", "ammo-item": "heavy_atomic_battery_cell", "charges": 10000, "contents-item": [ "magazine_battery_heavy_mod"] }
+                ]
+            },
+            "male": [
+                "briefs"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        },
+        "flags" : ["SCEN_ONLY"]
+      }
+]
