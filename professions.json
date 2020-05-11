@@ -221,6 +221,9 @@
                     { "item": "water_clean", "container-item": "canteen", "charges": 6 },
                     { "item": "water_clean", "container-item": "canteen", "charges": 6 },
                     { "item": "sheath", "contents-group": "bandit_scabbard_knife" },
+					{ "item": "lamp_oil", "container-item": "bottle_plastic_small" },
+					{ "item": "lamp_oil", "container-item": "bottle_plastic_small" },
+					{ "item": "oil_lamp", "ammo-item": "lamp_oil", "charges": 750 },
                     { "item": "scabbard", "contents-group": "bandit_scabbard_sword" }
                 ]
             },
